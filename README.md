@@ -10,6 +10,7 @@ A curated list of tools and resources for stock valuation and fair value analysi
 - [Finviz](https://finviz.com) — Stock screener and visualization
 - [TIKR](https://tikr.com) — Financial data terminal for investors
 - [Stock Unlock](https://stockunlock.com) — Free DCF calculator
+- [eStockes Company Fundamentals](https://estockes.com/fundamentals) — U.S. stock research with valuation ratios, financial statements, and editable discounted cash flow assumptions.
 - [Morningstar](https://morningstar.com) — Analyst-driven fair value estimates
 
 ## Educational Resources
